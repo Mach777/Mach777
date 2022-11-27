@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mach777
 - 👀 I’m interested in making lots o' money
 - 🌱 I’m currently learning C#, Python, R script, JQuery, et. al.
-- 💞️ I’m looking to collaborate on CyberPunk 2020, Anything AI, Anything stock market
+- 💞️ I’m looking to collaborate on Medical, Power Generation, CyberPunk 2020, Anything AI, Anything stock market
 - 📫 How to reach me: ping me
 
 <!---
